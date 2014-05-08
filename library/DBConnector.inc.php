@@ -1,5 +1,5 @@
 <?php
-require_once('Achievement.inc.php');
+require_once('library/Achievement.inc.php');
 
 class DBConnector {
   protected $db;
